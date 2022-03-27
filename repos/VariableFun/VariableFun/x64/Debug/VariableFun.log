@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\user\sourcecpp\repos\VariableFun\VariableFun\main.cpp(7,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  VariableFun.vcxproj -> C:\Users\user\sourcecpp\repos\VariableFun\x64\Debug\VariableFun.exe

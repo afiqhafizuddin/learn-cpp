@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\user\sourcecpp\TextFun\TextFun\main.cpp(8,26): warning C4305: 'initializing': truncation from 'int' to 'char'
+C:\Users\user\sourcecpp\TextFun\TextFun\main.cpp(8,20): warning C4309: 'initializing': truncation of constant value
+  TextFun.vcxproj -> C:\Users\user\sourcecpp\TextFun\x64\Debug\TextFun.exe
